@@ -1,0 +1,13 @@
+{
+  "name": "EVALUATE — Clinical Reasoning Game",
+  "short_name": "EVALUATE",
+  "description": "Five clues. One diagnosis. A new challenge every day.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#c4cfe6",
+  "theme_color": "#c4cfe6",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
